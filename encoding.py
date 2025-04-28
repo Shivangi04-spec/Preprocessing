@@ -13,3 +13,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... le=LabelEncoder()
 ... y=le.fit_transform(dataset['Survived'])
 ... print(X)
+print(y)
